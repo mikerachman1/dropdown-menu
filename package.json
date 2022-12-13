@@ -1,0 +1,19 @@
+{
+  "name": "mikerachman-drop-down-menu",
+  "version": "1.0.0",
+  "description": "A drop down menu package using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikerachman1/dropdown-menu.git"
+  },
+  "author": "mikerachman1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikerachman1/dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/mikerachman1/dropdown-menu#readme"
+}
