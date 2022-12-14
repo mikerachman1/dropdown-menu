@@ -1,5 +1,5 @@
 {
-  "name": "mikerachman-drop-down-menu",
+  "name": "@mikerachman1/drop-down-menu",
   "version": "1.0.0",
   "description": "A drop down menu package using javascript",
   "main": "index.js",

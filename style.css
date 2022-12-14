@@ -21,7 +21,7 @@
   gap: 1rem;
   max-width: 159px;
   border: 1px solid #000;
-  border-radius: 4px;
+  border-radius: 4px; 
 }
 
 .dropdown-content > a:first-child {
